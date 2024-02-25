@@ -1,16 +1,39 @@
-### Hi there 👋
+<!-- HEADING -->
+<div>
+  
+  <div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=50&pause=1000&color=38C2FF&random=false&width=800&height=80&lines=%C2%A1Hey+There%F0%9F%91%8B!+I'm+Douglas+Barrera;Welcome+To+My+GitHub+Profile" alt="Typing SVG" /></a>
+  </div>
 
-<!--
-**Doisaac/Doisaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p style="text-wrap:pretty">
+    My two names are <strong>Douglas Isaac</strong>, but my username across all platforms is Doisaac. I was only 11 years old when I took my first 
+    "Programming Introduction Course". Now, at 20 years old, I'm in my third year of Software Development Engineering. It has been quite a journey. 
+  </p>
+  
+</div> 
 
-Here are some ideas to get you started:
+ <!-- ABOUT ME SECTION -->
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :school: I'm currently *3rd year student* at **National University of El Salvador** 
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm living in Santa Ana, El Salvador
+- :sweat_smile: Currently improving my skills in Front-End. Then I'll return to continue learning Back-End
+- :monocle_face: I'm interested in coding, reading and watching videos from some tech influencers
+- :sunglasses: One of my favorite quotes is ***"One Day Or Day One"*** 
+- :ok_hand: Fun fact: I have a black female puppy named **negrita**, "Blacky" in English
+
+<!-- TECH SECTION -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Tech
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,mysql,postgres,bash,python,django,html,css,bootstrap)](https://skillicons.dev)
+<br><br>
+
+
+<!-- STATS -->
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> GitHub Stats
+
+<div align="center">
+ <img width=45% align="center" style="margin-right:50px" src="https://github-readme-stats.vercel.app/api?username=Doisaac&theme=radical&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doisaac&layout=compact&theme=radical" />
+</div>
