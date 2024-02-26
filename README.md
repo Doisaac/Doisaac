@@ -9,6 +9,12 @@
     My two names are <strong>Douglas Isaac</strong>, but my username across all platforms is Doisaac. I was only 11 years old when I took my first 
     "Programming Introduction Course". Now, at 20 years old, I'm in my third year of Software Development Engineering. It has been quite a journey. 
   </p>
+
+  <p>
+    After <em>two years of practicing Java</em>, I was about to delve into the world of Spring. However, I decided to prioritize strengthening my front-end 
+    skills first. <em>My ultimate goal is to be competent in both areas.</em> Right now, I'm creating web pages using only CSS, HTML,   
+    and JavaScript. Probably I'll practice some frameworks too, but soon, I'll be back with Java.
+  </p>
   
 </div> 
 
