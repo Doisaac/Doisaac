@@ -18,7 +18,7 @@
 - :school: I'm currently *3rd year student* at **National University of El Salvador** 
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living in Santa Ana, El Salvador
-- :sweat_smile: Currently improving my skills in Front-End. Then I'll return to continue learning Back-End
+- :sweat_smile: Currently improving my skills in Front-End, then I'll return to continue learning Back-End
 - :monocle_face: I'm interested in coding, reading and watching videos from some tech influencers
 - :sunglasses: One of my favorite quotes is ***"One Day Or Day One"*** 
 - :ok_hand: Fun fact: I have a black female puppy named **negrita**, "Blacky" in English
