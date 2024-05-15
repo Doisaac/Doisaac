@@ -39,7 +39,7 @@
 <!-- STATS -->
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> GitHub Stats
 
-<div align="center">
+<div style="display:flex; align-items:center;">
  <img width=45% align="center" style="margin-right:50px" src="https://github-readme-stats.vercel.app/api?username=Doisaac&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doisaac&layout=compact&theme=radical" />
 </div>
