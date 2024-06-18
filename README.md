@@ -32,7 +32,7 @@
 <!-- TECH SECTION -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Tech
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,mysql,postgres,bash,python,django,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,mysql,postgres,docker,bash,python,django,html,css,bootstrap)](https://skillicons.dev)
 <br><br>
 
 
