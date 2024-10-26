@@ -1,9 +1,9 @@
 <!-- HEADING -->
 <div>
   
-  <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=50&pause=1000&color=38C2FF&random=false&width=850&height=80&lines=%C2%A1Hey+There%F0%9F%91%8B!+I'm+Douglas+Barrera;Welcome+To+My+GitHub+Profile" alt="Typing SVG" /></a>
-  </div>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=50&pause=1000&color=F0DB4F&width=1000&height=85&lines=%C2%A1Hey+There!+I'm+Douglas%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" /></a>
+ 
 
   <p style="text-wrap:pretty">
     My two names are <strong>Douglas Isaac</strong>, but my username across all platforms is Doisaac. I was only 11 years old when I took my first 
