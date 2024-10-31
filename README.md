@@ -32,9 +32,9 @@
 <!-- TECH SECTION -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Tech
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,mysql,postgres,docker,bash,python,django,html,css,bootstrap)](https://skillicons.dev)
-<br><br>
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,java,mysql,postgres,docker,bash,python,django,html,css,bootstrap)](https://skillicons.dev)
 
+<br>
 
 <!-- STATS -->
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> GitHub Stats
