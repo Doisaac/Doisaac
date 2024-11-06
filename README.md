@@ -6,7 +6,7 @@
  
 
   <p style="text-wrap:pretty">
-    My two names are <strong>Douglas Isaac</strong>, but my username across all platforms is Doisaac. I was only 11 years old when I took my first 
+    My two names are <strong>Douglas Isaac</strong>, but my username across all platforms is Doisaac (pronounced <code>/doisac/</code>). I was only 11 years old when I took my first 
     "Programming Introduction Course". Now, at 20 years old, I'm in my third year of Software Development Engineering. It has been quite a journey. 
   </p>
 
