@@ -1,7 +1,7 @@
 <!-- HEADING -->
 <div>
   
-  <a href="https://git.io/typing-svg">
+  <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=50&pause=1000&color=F0DB4F&width=1000&height=85&lines=%C2%A1Hey+There!+I'm+Douglas%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" /></a>
  
 
@@ -32,7 +32,7 @@
 <!-- TECH SECTION -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Tech
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,java,mysql,postgres,docker,bash,python,django,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,java,mysql,postgres,docker,bash,python,django,html,css,bootstrap)](#)
 
 <br>
 
