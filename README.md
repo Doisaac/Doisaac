@@ -5,15 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=50&pause=1000&color=F0DB4F&width=1000&height=85&lines=%C2%A1Hey+There!+I'm+Douglas%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+Profile+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" /></a>
  
 
-  <p style="text-wrap:pretty">
+  <p style="text-wrap:pretty;">
     My two names are <strong>Douglas Isaac</strong>, but my username across all platforms is Doisaac (pronounced <code>/doisac/</code>). I was only 11 years old when I took my first 
-    "Programming Introduction Course". Now, at 20 years old, I'm in my third year of Software Development Engineering. It has been quite a journey. 
+    "Programming Introduction Course". Now, at 21 years old, I'm in my fourth year of Software Development Engineering. It has been quite a journey. 
   </p>
 
   <p>
-    After <em>two years of practicing Java</em>, I was about to delve into the world of Spring. However, I decided to prioritize strengthening my front-end 
-    skills first. <em>My ultimate goal is to be competent in both areas.</em> Right now, I'm creating web pages using only CSS, HTML,   
-    and JavaScript. Probably I'll practice some frameworks too, but soon, I'll be back with Java.
+    In 2023, I decided to prioritize strengthening my front-end skills, but my <em>ultimate goal is to be competent in both areas.</em> Currently, I'm working on some projects using React, Express.js, MongoDB, and Tailwind.
   </p>
   
 </div> 
@@ -21,10 +19,9 @@
  <!-- ABOUT ME SECTION -->
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me 
 
-- :school: I'm currently *3rd year student* at **National University of El Salvador** 
+- :school: I'm currently *4th year student* at **National University of El Salvador** 
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living in Santa Ana, El Salvador
-- :sweat_smile: Currently improving my skills in Front-End, then I'll return to continue learning Back-End
 - :monocle_face: I'm interested in coding, reading and watching videos from some tech influencers
 - :sunglasses: One of my favorite quotes is ***"One Day Or Day One"*** 
 - :ok_hand: Fun fact: I have a black female puppy named **negrita**, "Blacky" in English
